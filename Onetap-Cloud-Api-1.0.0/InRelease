@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: jessie
+Components: pve-no-subscription pvetest
+Date: Tue, 10 Jul 2018 09:16:42 +0000
+Label: Proxmox Debian Repository
+Origin: Proxmox
+Suite: stable
+MD5Sum:
+ 39ec37c054027f5fbf3ea0101294f372          1148667 pve-no-subscription/binary-amd64/Packages
+ c3672dc3130370ea2ff1f254324af57f           319161 pve-no-subscription/binary-amd64/Packages.gz
+ f91b58f9f2c81f2c2a24ae91c2f36254           769577 pvetest/binary-amd64/Packages
+ 0e92a5045b5eb6101d4273adb14c78b3           215043 pvetest/binary-amd64/Packages.gz
+SHA1:
+ 0ad14815059434d505d312e627ce6a444aadd8f1          1148667 pve-no-subscription/binary-amd64/Packages
+ 2d2f8e51a57ed993430d3287a4212464a4c119d9           319161 pve-no-subscription/binary-amd64/Packages.gz
+ a53b02a26d7b7b555fcf9ff3fda7e7b8b18bbbcf           769577 pvetest/binary-amd64/Packages
+ afab292950cdd465cf75b0161efeedfb7477b1f0           215043 pvetest/binary-amd64/Packages.gz
+SHA256:
+ 344dc0b7679aad746d0912be7eeca138aad3001364f294acc8402ed966f2b1e8          1148667 pve-no-subscription/binary-amd64/Packages
+ 4a3f8b9e6397b70c794e73beaacd2d539ec1fa77048cdee3990f609257afb94e           319161 pve-no-subscription/binary-amd64/Packages.gz
+ bffa2db0988ea61f94d894412b26b6d6266a59a5b9c95e799d97486aed55ce3d           769577 pvetest/binary-amd64/Packages
+ 57e2ee598da58ccc66e2b2dbb5a3152e27ad0d5b238d3add82744b6eeeabd0e9           215043 pvetest/binary-amd64/Packages.gz
+SHA512:
+ 45df9db43ce66cde9c755eb059797190114a944d351a7db0eab4237847c73375377a4e996b4d5e9867fb24bd0cd1ed75a50b294aecdf13442af1d27817d1a20d          1148667 pve-no-subscription/binary-amd64/Packages
+ ffad73a3822caa6fc138140d4d960e5bd7f88f9dacbb004e8f98c66f2c14d6106ec0f11a24343e3100d855548b6b8b8de9997de7a3ec65b165a5928a07e712f1           319161 pve-no-subscription/binary-amd64/Packages.gz
+ 34c780ee0c23db2c2d922a442d3205b489a2b8afdb394e3a1a3556715029fdc13fc8c756af32181baa273093f957e3284b284c59ca65fd3033383719875a9cb9           769577 pvetest/binary-amd64/Packages
+ 75c07b3bdc17b53a957afbd607c3209f9357f9e2f0496082b8dbc089cb517207d0113a5f3a6ba751f0bddd10ce0f446e2be4bf4be11545b64423f622e9330c2f           215043 pvetest/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iF0EAREIAB0WIQS+JXuqXUBtARV9Mj7COsf0mIf5WgUCW0R5ewAKCRDCOsf0mIf5
+WpizAJ4pJIndexsuNJCNT8RBO5s1p7xGIQCgiQ1nkmk8Loq3sxZPYH1o+/zP63w=
+=7nGC
+-----END PGP SIGNATURE-----

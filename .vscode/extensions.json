@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "snyk-security.snyk-vulnerability-scanner",
+        "hotq.gkd",
+        "dbaeumer.jshint",
+        "indracompany.autodoc-yaml-snippets",
+        "wisebox.vscode-mox-extension",
+        "ms-vscode-remote.remote-containers",
+        "whisper-language.whisper-language",
+        "kiteco.kite",
+        "kiradev.otc3-api-snippets"
+    ]
+}
