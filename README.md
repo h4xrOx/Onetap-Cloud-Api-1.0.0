@@ -1591,19 +1591,12 @@ OnetapAPI.DeleteScriptSubscription("config_id", "user_id").then(result => {
 //     }
 //     if(method === 'GET'){
 
-      
-//     }
- 
- 
-//   }
-
-}
-
 // ## sage
 
 // ## {apiKey:'',apiSecret:'',apiId:'701f02d46836e2c2f0f4fdf5719dfc2f'}
 
-// ## const ot = new OnetapCloud('701f02d46836e2c2f0f4fdf5719dfc2f'89016f59a0e6e24a1457dd330f214638f07298efdc58ba947e81ebfea47f54b3','1tgHv0nKwEsBc12s0230D9AzMYf1RRjo')
+// ## const ot = new 
+// OnetapCloud('701f02d46836e2c2f0f4fdf5719dfc2f'89016f59a0e6e24a1457dd330f214638f07298efdc58ba947e81ebfea47f54b3','1tgHv0nKwEsBc12s0230D9AzMYf1RRjo')
 
 // ##script stuff
 
@@ -1612,8 +1605,8 @@ OnetapAPI.DeleteScriptSubscription("config_id", "user_id").then(result => {
 // })
 
 // ## ot.GetScript("75535", function(result) {
-    console.log(result.script);
-});
+//    console.log(result.script);
+// });
 
 // ## ot.GetScriptInvites("75535", function(result) {
 //   console.log(result);
